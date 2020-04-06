@@ -1,0 +1,29 @@
+body{background-color: black;
+color: blanchedalmond;}
+
+nav, header, .contenedor, section, footer{
+    max-width: 92%;
+margin: auto;
+}
+    
+
+nav{background-color: brown;
+
+}
+
+header{ background-color: cyan;
+
+}
+
+.contenedor{
+    background-color: indigo;
+}
+
+.central{background-color: royalblue;
+    display: inline-block;
+    max-width: 65%;
+}
+footer{
+background-color: darkslategray   ;
+
+}
